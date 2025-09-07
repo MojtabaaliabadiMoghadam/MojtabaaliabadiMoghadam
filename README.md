@@ -3,6 +3,7 @@
 I'm a passionate **Frontend Developer** who loves building modern, performant, and user-friendly web applications.  
 💡 I specialize in **Vue.js & Nuxt 3**, but I’ve also worked with **React, Next.js, and Vanilla JavaScript**.  
 🚀 Currently learning **Node.js & Express** to expand into full-stack development.  
+🌍 Open to **remote projects** and collaborations with global teams.  
 
 ---
 
@@ -26,6 +27,5 @@ I'm a passionate **Frontend Developer** who loves building modern, performant, a
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](#)  
-- 🌍 [Portfolio](#)  
-- 📧 `your.email@example.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/mojtaba-aliabadi-5bb076310/)  
+- 📧 Email: **mojiland2002@gmail.com**
