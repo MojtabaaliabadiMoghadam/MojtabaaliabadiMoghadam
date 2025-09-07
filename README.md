@@ -1,22 +1,22 @@
 # Hi there 👋 I'm Mojtaba  
 
-I'm a passionate **Frontend Developer** focusing on building modern, fast, and scalable web apps.  
-Currently exploring **Node.js & Express** to become a full-stack developer.  
+I'm a passionate **Frontend Developer** who loves building modern, performant, and user-friendly web applications.  
+💡 I specialize in **Vue.js & Nuxt 3**, but I’ve also worked with **React, Next.js, and Vanilla JavaScript**.  
+🚀 Currently learning **Node.js & Express** to expand into full-stack development.  
 
 ---
 
 ## 🔧 Skills
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
-- **Frameworks & Libraries:** Vue.js, Nuxt 3, Tailwind CSS, PrimeVue, Pinia  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** Vue.js, Nuxt 3, React, Next.js, Tailwind CSS, PrimeVue, Pinia  
 - **Tools:** Git, WebStorm, VS Code, Postman, Chrome DevTools  
-- **Other:** Responsive Design, REST APIs, SEO Optimization  
+- **Other:** Responsive Design, SEO Optimization, REST APIs  
 
 ---
 
 ## 🚀 Featured Projects
-- **Online Menu App** – Digital restaurant menu with QR code & multiple themes (Nuxt 3 + Tailwind)  
-- **Lottery Registration System** – Full form handling with Pinia & LocalStorage  
-- **E-Commerce Website** – Frontend in Vue/Nuxt, backend with Node.js + Express (in progress)  
+*(Coming soon...)*  
+<!-- I will showcase my public projects here later. -->
 
 ---
 
@@ -29,19 +29,3 @@ Currently exploring **Node.js & Express** to become a full-stack developer.
 - 💼 [LinkedIn](#)  
 - 🌍 [Portfolio](#)  
 - 📧 `your.email@example.com`
-## Hi there 👋
-
-<!--
-**MojtabaaliabadiMoghadam/MojtabaaliabadiMoghadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
